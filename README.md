@@ -1,6 +1,6 @@
 # Data Acquisition and Oscilloscope System
 
-This was my graduation project for my Bachelor’s degree in Electrical &amp; Electronics Engineering (2016-2017)
+This was my graduation project for my Bachelor’s degree in Electrical &amp; Electronics Engineering.
 
 **The device gives users the ability to:**
 - Accept both Analog and Digital signals via external sensors.
